@@ -1,0 +1,3 @@
+langchain
+openai
+docx2txt
