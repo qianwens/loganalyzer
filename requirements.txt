@@ -1,3 +1,6 @@
 langchain
 openai
-docx2txt
+unstructured
+pyopenssl
+chromadb
+tiktoken
